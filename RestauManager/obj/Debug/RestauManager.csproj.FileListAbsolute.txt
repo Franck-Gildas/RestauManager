@@ -1,0 +1,13 @@
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Projets\RestauManager\RestauManager\bin\Debug\RestauManager.exe.config
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Projets\RestauManager\RestauManager\bin\Debug\RestauManager.exe
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Projets\RestauManager\RestauManager\bin\Debug\RestauManager.pdb
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Projets\RestauManager\RestauManager\obj\Debug\RestauManager.csproj.AssemblyReference.cache
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Projets\RestauManager\RestauManager\obj\Debug\RestauManager.Properties.Resources.resources
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Projets\RestauManager\RestauManager\obj\Debug\RestauManager.RestauManagerForm.resources
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Projets\RestauManager\RestauManager\obj\Debug\RestauManager.csproj.GenerateResource.cache
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Projets\RestauManager\RestauManager\obj\Debug\RestauManager.csproj.CoreCompileInputs.cache
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Projets\RestauManager\RestauManager\obj\Debug\RestauManager.exe
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Projets\RestauManager\RestauManager\obj\Debug\RestauManager.pdb
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Projets\RestauManager\RestauManager\bin\Debug\Transact.dll
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Projets\RestauManager\RestauManager\bin\Debug\Transact.pdb
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Projets\RestauManager\RestauManager\obj\Debug\RestauMa.306CED35.Up2Date
